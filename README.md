@@ -1,4 +1,4 @@
-# _Sample project_
+# _Controle de Temperatura por Efeito Termoelétrico com Módulos Peltier_
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
