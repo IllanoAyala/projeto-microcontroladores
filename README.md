@@ -1,4 +1,4 @@
-# Controle de Temperatura por Efeito Termoelétrico com Módulos Peltier
+# _Controle de Temperatura por Efeito Termoelétrico com Módulos Peltier_
 
 ## Sobre o Projeto
 
