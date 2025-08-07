@@ -58,10 +58,10 @@ O projeto demonstrou ser uma solução viável, funcional e de baixo custo, aten
 
 ## Autores
 
-* [cite_start]Caique Eduardo Fonseca Ferreira 
-* [cite_start]Illano Ayala Alves Ferreira 
-* [cite_start]João Eduardo Freitas de Albuquerque 
-* [cite_start]Miguel Coelho Nogueira 
+* Caique Eduardo Fonseca Ferreira 
+* Illano Ayala Alves Ferreira 
+* João Eduardo Freitas de Albuquerque 
+* Miguel Coelho Nogueira 
 
 ## Licença
 
